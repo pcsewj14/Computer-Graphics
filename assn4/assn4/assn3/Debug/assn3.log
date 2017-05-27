@@ -1,0 +1,49 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gl_assn2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Player.cpp
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\angel.h(63): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\mat.h(707): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\mat.h(708): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\mat.h(709): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\mat.h(730): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\mat.h(732): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\mat.h(735): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\mat.h(752): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(85): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(86): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(87): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(193): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(194): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(214): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(215): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(235): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(238): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(258): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(261): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(281): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(284): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(304): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(307): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(327): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(330): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(350): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(353): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(373): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(376): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(396): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(399): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(427): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(430): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(435): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(440): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(445): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(450): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(453): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(456): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+c:\users\박경원\documents\visual studio 2015\projects\assn4 (7)\assn3\assn3\player.cpp(459): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+  assn3.vcxproj -> C:\Users\박경원\Documents\Visual Studio 2015\Projects\assn4 (7)\assn3\Debug\assn3.exe
+  assn3.vcxproj -> C:\Users\박경원\Documents\Visual Studio 2015\Projects\assn4 (7)\assn3\Debug\assn3.pdb (Partial PDB)
